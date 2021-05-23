@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31129.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSIntermediateInterfaces", "CSIntermediateInterfaces\CSIntermediateInterfaces.csproj", "{3A4A5FD8-4E90-4FF7-BA6C-66177DDBC93C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSIntermediateInterfaces.UnitTests", "CSIntermediateInterfaces.UnitTests\CSIntermediateInterfaces.UnitTests.csproj", "{133C7F9F-C5E0-4289-9D51-E6F736DE6000}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3A4A5FD8-4E90-4FF7-BA6C-66177DDBC93C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A4A5FD8-4E90-4FF7-BA6C-66177DDBC93C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A4A5FD8-4E90-4FF7-BA6C-66177DDBC93C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A4A5FD8-4E90-4FF7-BA6C-66177DDBC93C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{133C7F9F-C5E0-4289-9D51-E6F736DE6000}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{133C7F9F-C5E0-4289-9D51-E6F736DE6000}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{133C7F9F-C5E0-4289-9D51-E6F736DE6000}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{133C7F9F-C5E0-4289-9D51-E6F736DE6000}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0EBE910F-BF4D-44E4-B07E-6C4F020C2825}
+	EndGlobalSection
+EndGlobal
